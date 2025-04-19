@@ -26,4 +26,5 @@ Machine Learning Repository .The link to further references about this data set 
 Dataset: [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/476/buddymove+data+set)
 
 Report Overview
+
 This report provides a comprehensive walkthrough of how the analysis was conducted using R programming, including detailed steps on data preprocessing, clustering implementation, and visualization techniques. It also covers the design and development of an interactive dashboard, showcasing how user interests were grouped and interpreted for actionable insights. From coding to insights, this report captures the complete technical and analytical workflow behind the project.
